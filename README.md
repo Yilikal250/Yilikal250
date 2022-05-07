@@ -2,9 +2,9 @@
 ```
 ## I'm a full-stack developer, music lover and part time chess player!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything at Microverse
 - 👯 I’m looking to collaborate with other developers around the world
-- 🥅 2022 Goals: Learn more languages.
+- 🥅 2022 Goals: Learn more about the web.
 - ⚡ Fun fact: I love creative arts.
 
 ```
@@ -13,14 +13,12 @@
 <h2 align="center">
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/imranbel251#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/imranbel251#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/twitterhandle#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/twitterhandle#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/imran-belete/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/imran-belete/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/imran.bel_#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/imran.bel_#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/linkedinhandle/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/linkedinhandle/#gh-dark-mode-only)
+
 
 🛠️ Languages and Tools:
 <table align="center">
@@ -51,12 +49,12 @@
 
 Current Projects
 
-<a href="https://github.com/iBel251/To-Do-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iBel251&repo=To-Do-List" />
+<a href="https://yilikal250.github.io/Portfolio/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=To-Do-List" />
 </a>
-<a href="https://github.com/iBel251/awesome-books-modules">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iBel251&repo=awesome-books-modules" />
+<a href=" https://yilikal250.github.io/House-Expo/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=awesome-books-modules" />
 </a>
-<a href="https://github.com/iBel251/grand-auction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iBel251&repo=grand-auction" />
+<a href=https://yilikal250.github.io/webpack-demo/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=grand-auction" />
 </a>
