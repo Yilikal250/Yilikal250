@@ -9,6 +9,7 @@
 
 ```
 ---
+ ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/93576145/165983520-9e9bde5d-c4d8-481d-a412-7f0aea0a1cec.gif">
 <h2 align="center">
 
