@@ -51,11 +51,9 @@ Current Projects
 <a href=" https://yilikal250.github.io/Portfolio/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=Portfolio" />
 </a>
-
 <a href=" https://yilikal250.github.io/Awesome-books/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=Awesome-books" />
 </a>
-
 <a href="https://yilikal250.github.io/House-Expo/">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=House-Expo" />
 </a>
