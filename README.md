@@ -21,11 +21,43 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/Yilikal250)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yilikal-teshome-b6493922a)
 
+🛠️ Languages and Tools:
+<table align="center">
+    <tr>
+        <td align="center"><img alt="Visual-Studio-Code" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
+        <td align="center"><img alt="HTML5" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></td>
+        <td align="center"><img alt="CSS3" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></td>
+    </tr>
+    <tr>
+        <td align="center"><img alt="Sass" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></td>
+        <td align="center"><img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></td>
+        <td align="center"><img alt="React" width="85px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
+    </tr>
+    <tr>
+      <td align="center"><img alt="git" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
+      <td align="center"><img alt="Github" width="50px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></td>
+      <td align="center"><img alt="Webpack" width="85px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/></td>
+    </tr>
+</table>
+
+---
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yilikal250&" alt="Yilikal250" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yilikal250&show_icons=true&locale=en" alt="Yilikal250" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yilikal250&show_icons=true&locale=en&layout=compact" alt="Yilikal250" /></p>
-<div>
-    <img align='center'  height="70" alt="Thanks" width="100%" src="Thanks.svg"/>
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yilikal250&show_icons=true&theme=radical"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yilikal250&show_icons=true&theme=radical&layout=compact"/>
 </div>
-</div>
+
+Current Projects
+
+<a href=" https://yilikal250.github.io/Portfolio/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=Portfolio" />
+</a>
+<a href="https://yilikal250.github.io/webpack-demo/dist/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=webpack-demo" />
+</a>
+<a href="https://yilikal250.github.io/House-Expo/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=House-Expo" />
+</a>
+<a href=" https://yilikal250.github.io/Awesome-books/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=Awesome-books" />
+</a>
+
