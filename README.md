@@ -51,8 +51,8 @@ Current Projects
 
 <table align="center">
  <tr>
-    <td align="center"><a href="https://yilikal250.github.io/Portfolio/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=Portfolio" />
+    <td align="center"><a href="https://yilikal250.github.io/Personal-Portfolio/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=Personal-Portfolio" />
 </a></td>
         <td align="center"><a href="https://yilikal250.github.io/Awesome-books/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=Awesome-books" />
