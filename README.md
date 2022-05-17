@@ -62,8 +62,8 @@ Current Projects
     <td align="center"><a href="https://yilikal250.github.io/webpack-demo/dist/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=webpack-demo" />
 </a></td>
-        <td align="center"><a href="https://yilikal250.github.io/House-Expo/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=House-Expo" />
+        <td align="center"><a href="https://yilikal250.github.io/House-Exhibition/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yilikal250&repo=House-Exhibition" />
 </a></td>
     </tr>
 </table>
